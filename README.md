@@ -1,5 +1,5 @@
 # OrdenCompraRestaurante
-Contexto de programa Restaurante
+Contexto de programa Restaurante. 
 Hoy en día a pesar de la pandemia muchas personas han optado por no tener contacto con las personas por motivos de seguridad, lo cuál puede generar incertidumbre, a consecuencia de esto muchos negocios se ven afectados ya que al no tener tecnología aplicada en sus negocios son afectados por esa población, además si pensamos en optimizar las compras, la mayor parte de la  población opta por comprar en línea que en físico. 
 El servicio es una combinación de comunicación, atención, respeto y cuidado con y para el cliente para que se sienta como en casa y asegurarnos de que vuelva a nuestro restaurante y lo recomiende.
 fuente:www.touchdynamic.com
