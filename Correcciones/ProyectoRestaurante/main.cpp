@@ -30,7 +30,7 @@ int main(){
 	cout<<"Seleccione una opcion: ";cin>>postre;
 	//m1.getPostre();
 	if(postre == 1){
-		//m1.getPostre();
+	p1.getPostre();
 	}else{
 		postre = 0;
 	}
