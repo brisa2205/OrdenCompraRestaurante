@@ -1,6 +1,10 @@
 #include <iostream>
 #include<string.h>
-#include "Metodos.cpp"
+#include "MetodoPago.cpp"
+#include "Cliente.cpp"
+#include "Postre.cpp"
+#include "Menu1.cpp"
+
 
 using namespace std;
 int main(){
